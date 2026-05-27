@@ -4,8 +4,10 @@ import Cards from './cards';
 
 const App = () => {
   return (
-    <div>
-      <Cards/>
+    <div className='container'>
+      <Cards user='Shital Dubey'/>
+      <Cards user='Riya Sharma'/>
+      <Cards user='Princy Singh'/>
     </div>
   );
 };
