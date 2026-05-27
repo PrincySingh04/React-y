@@ -1,0 +1,44 @@
+
+body{
+  height: 100%;
+  width:100%;
+  
+  
+}
+.Parent{
+  display: flex;
+  gap:20px;
+  padding: 20px;
+}
+.cards{
+  
+  width :300px;
+  padding: 20px;
+  margin:10px 10px;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  justify-content: center;
+  align-items: center;
+  text-align: center ;
+  background-color: #333;
+  color: aliceblue;
+  
+   
+}
+.cards button{
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border-radius: 10px;
+}
+p{
+  margin: 20px 0px;
+
+}
+.cards img{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+h1{
+  font-size: 50px;
+}
