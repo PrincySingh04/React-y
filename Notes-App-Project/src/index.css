@@ -1,0 +1,99 @@
+
+body{
+  height: 100%;
+  width:100%;}
+.main{
+  display: flex;
+    height: 100vh;
+ 
+  /* align-items: flex-start; */
+} 
+.form-section{
+  background-color: gray;
+  text-align: center;
+   border: 1px solid black;
+     width: 20%;
+    border: 1px solid black;
+  /* padding: 20px; */
+
+
+}
+
+form{
+  /* height: 300px;
+  width:400px ; */
+  /* background-color: blueviolet; */
+  display:flex ;
+  height: 100%;
+   
+  
+
+  /* justify-content:space-between ; */
+  flex-direction: column;
+}
+input{
+  height: 30px;
+  width: 120px;
+  padding-bottom: 10px;
+  margin:10px ;
+   border: 1px solid black;
+   border-radius: 5px;
+}
+textarea{
+  height: 70px;
+  width: 125px;
+  margin:10px;
+  border-radius:5px
+}
+button{
+  background-color:white;
+  color: black;
+  width: 125px;
+  margin:10px ;
+}
+.cards{
+  width: 100px;
+  min-height: 120px;
+
+  background-image: url('https://i.pinimg.com/474x/39/9d/78/399d78abef3a5af72166c0c8f09cdecd.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  color: black;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.card-container{
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+ 
+  
+    
+}
+h2{
+  margin-bottom: 20px;
+  font-size: small;
+}
+.notes{
+  width: 50%;
+  height: 100%;
+  background-color: grey;
+  border: 1px solid black;
+  /* padding-bottom: 10px;
+  margin:10px ; */
+  text-align: center;
+  font-size: small;
+}
+.cards h3{
+  margin: 0 0 10px 0;
+  font-size: small;
+}
+
+.cards p{
+  margin: 0;
+  word-wrap: break-word;
+  font-size: small;
+}
