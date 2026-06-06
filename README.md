@@ -1,38 +1,49 @@
-# React UI Project
+# React Daily Learning & Projects 🚀
 
-A React-based UI project demonstrating **Parent-to-Child Communication using Props**. The project is built with React and Vite and focuses on component reusability and data passing through props.
+A collection of my daily React.js learning notes, practice exercises, and mini projects.
 
-## Features
 
-* Parent-to-child data passing using React Props
-* Reusable React components
-## Technologies Used
 
-* React.js
-* Vite
-* JavaScript (ES6+)
-* CSS / Tailwind CSS
+## What You'll Find Here
+✅ React Concepts  
+✅ Hands-on Coding Practice  
+✅ Mini Projects  
+✅ API Integration Examples  
+✅ React Router Examples  
+✅ Redux Practice  
 
-## Project Structure
+## 📚 Topics Covered
 
-```text
-src/
-│
-├── components/
-│   ├── section-1/
-│   │   ├── navbar.jsx
-│   │   ├── page1content.jsx
-│   │   ├── leftcontent.jsx
-│   │   ├── rightcontent.jsx
-│   │   └── ...
-│   │
-│   └── section-2/
-│       └── section-2.jsx
-│
-├── App.jsx
-├── main.jsx
-└── index.css
-```
+- React Basics
+- JSX
+- Components
+- Props
+- State
+- Event Handling
+- Hooks (useState, useEffect)
+- Axios
+- Context API
+- Forms
+- API Integration
+- And more...
+
+## Goal
+To strengthen my React development skills through consistent daily learning and project building.
+
+## Tech Stack
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Axios
+
+
+## Progress
+I update this repository regularly with new topics and projects as I continue my React learning journey.
+
+---
+⭐ Feel free to explore the projects and provide feedback!
 ## Author
 
 Princy Singh
