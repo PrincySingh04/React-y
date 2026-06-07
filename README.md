@@ -10,7 +10,7 @@ A collection of my daily React.js learning notes, practice exercises, and mini p
 ✅ Mini Projects  
 ✅ API Integration Examples  
 ✅ React Router Examples  
-✅ Redux Practice  
+✅ Advance Routing 
 
 ## 📚 Topics Covered
 
@@ -48,4 +48,4 @@ I update this repository regularly with new topics and projects as I continue my
 
 Princy Singh
 
-Built while learning React component architecture and props-based communication.
+Built while learning React .
