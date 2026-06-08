@@ -9,7 +9,7 @@ A collection of my daily React.js learning notes, practice exercises, and mini p
 ✅ Hands-on Coding Practice  
 ✅ Mini Projects  
 ✅ API Integration Examples  
-✅ React Router Examples  
+✅ React Router   
 ✅ Advance Routing 
 
 ## 📚 Topics Covered
@@ -25,6 +25,7 @@ A collection of my daily React.js learning notes, practice exercises, and mini p
 - Context API
 - Forms
 - API Integration
+- React Router
 - And more...
 
 ## Goal
@@ -37,6 +38,7 @@ To strengthen my React development skills through consistent daily learning and 
 - CSS3
 - Tailwind CSS
 - Axios
+- React Router
 
 
 ## Progress
